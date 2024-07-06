@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>BG.jpg</file>
+    <file>BG_text.png</file>
+    <file>BG_num.png</file>
+  </qresource>
+</RCC>
